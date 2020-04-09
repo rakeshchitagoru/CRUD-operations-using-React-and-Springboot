@@ -1,0 +1,28 @@
+{
+  "groups": [
+    {
+      "id": 1,
+      "Name": "Denver JUG",
+      "location": "Colorado",
+      "Events": "December 12 Full stack React"
+    },
+    {
+      "id": 2,
+      "Name": "Utah JUG",
+      "location": "Utah",
+      "Events": "December 14 Full stack React"
+    },
+    {
+      "id": 3,
+      "Name": "Cincinnati JUG",
+      "location": "Ohio",
+      "Events": "December 15 Full stack React"
+    },
+    {
+      "id": 4,
+      "Name": "Seattle JUG",
+      "location": "Washington",
+      "Events": "December 16 Full stack React"
+    }
+  ]
+}
