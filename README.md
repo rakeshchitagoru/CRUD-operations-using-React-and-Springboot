@@ -1,4 +1,5 @@
-CRUD operations using Reactjs ans Springboot
+CRUD operations using Reactjs and Springboot
+
 Application that performs CRUD operations. Developed using Reactjs and Springboot.
 
 
